@@ -1,67 +1,31 @@
-# 👋 Hi, I'm Sadil Manvidu
+# 💫 About Me:
+A highly motivated and detail-oriented undergraduate pursuing a BSc(Hons) in Software Engineering at Java Institute for Advanced Technology(in affiliation with Birmingham City University). Experienced in full-stackdevelopment, embedded systems, and AI. Passionate about bothfrontend and backend development with a strong focus on efficient andscalable problem-solving. Enthusiastic about hardware-softwareintegration, and team leadership in tech projects and competitions.
 
-I'm a passionate **Full Stack Developer** and Software Engineering undergraduate at the Java Institute for Advanced Software Engineering (BCU), Colombo, Sri Lanka. With a strong foundation in **Java, PHP, Python, JavaScript**, and embedded systems, I thrive on solving complex problems and building scalable solutions. My hands-on experience spans over **10 software and IoT projects**, including web applications, automation systems, and robotics.
 
-🔥 **What I Do**:
-- Develop robust web applications with **PHP, Laravel, MySQL, HTML, CSS, and JavaScript**.
-- Create innovative IoT solutions, like a **BattleBot** for RoboGames 2025, integrating Arduino and custom PCBs.
-- Lead teams to deliver high-quality projects, such as the **Bungalow Booking Web System** for the Ministry of Home Affairs.
-- Continuously learn cutting-edge technologies, currently exploring **AI and Machine Learning** through Harvard's CS50 AI with Python.
-
----
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🚀 Featured Projects
 
-### [Bungalow Booking Web System](https://github.com/yourusername/bungalow-booking)
-- **Role**: Team Lead (NextEra) & Full Stack Developer
+### Bungalow Booking Web System
+- **Role**: Team Lead (Nextera) & Full Stack Developer
 - **Tech**: PHP, MySQL, HTML, CSS, JavaScript
 - Leading a team to build a scalable booking system for the Ministry of Home Affairs, focusing on backend development with MySQL and API integration.
 
-### [Chore/Help Management System](https://github.com/yourusername/hackathon-chore-system)
+### Chore Management System
 - **Achievement**: 1st Round Winner, Java Institute Hackathon 2024
 - **Tech**: HTML, CSS, JavaScript, PHP, MySQL
 - Developed a user-friendly platform in 24 hours, enabling users to post and respond to help requests with admin oversight for monitoring.
 
-### [Swift Art Website](https://github.com/yourusername/swift-art)
+### Swift Art Website
 - **Role**: Full Stack Developer
 - **Tech**: PHP, MySQL, HTML, CSS, JavaScript
-- Built an e-commerce platform for art supplies with responsive design and robust inventory management (unhosted due to financial constraints).
-
-### [BattleBot for RoboGames 2025](https://github.com/yourusername/battlebot-2025)
-- **Role**: Team Lead & Developer
-- **Tech**: Arduino, PCB Design
-- Designed and built a BattleBot from scratch, securing a victory against an advanced bot at the University of Moratuwa.
-
----
-
-## 🛠️ Skills
-- **Languages**: Java, PHP, Python, JavaScript
-- **Frameworks & Libraries**: Laravel, Bootstrap, Tailwind CSS, React Native
-- **Databases**: MySQL, MongoDB, SQLite
-- **Embedded Systems**: Arduino, PCB Design
-- **Competencies**: Full Stack Development, Team Leadership, Project Coordination, API Integration, System Development Methodologies, AI Fundamentals
-
----
-
-## 🎓 Education
-- **B.Sc. in Software Engineering** (2023–2025)  
-  Java Institute for Advanced Software Engineering (BCU), Colombo  
-  Built projects like an LMS (Java), e-commerce site (PHP), and chat app (React Native).
-- **CS50's Introduction to AI with Python** (2024–Present)  
-  Harvard University (Online)  
-  Exploring machine learning, neural networks, and AI-driven problem-solving.
-
----
-
-## 🌟 Extracurriculars
-- **Leo Club of Colombo Grand Circle** (2023–Present)  
-  Served as Project Secretary, leading community service projects, coordinating tasks, and preparing detailed project reports to drive impact.
-
+- Built an e-commerce platform for art supplies with responsive design and robust inventory management (unhosted due to financial constraints)
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 📧 Email: [sadilmanvidu219@gmail.com](mailto:sadilmanvidu219@gmail.com)
+- 📞 Phone: +94 70 151 3600
 - 🌐 GitHub: You're already here! 😄
 
 ---
